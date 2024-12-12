@@ -14,7 +14,7 @@ import taxes from '../assets/taxes.png'
 import footer from '../assets/footer.png'
 
 
-export const Data = [
+export const data = [
     {
         logoImg: logo,
         menuImg: menu,
